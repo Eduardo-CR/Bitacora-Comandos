@@ -1,3 +1,5 @@
-| Comando | Descripcion                                          | Ejemplo de uso
-|  man    | Proporciona informacion sobre el comando solicitado  | man mkdir 
+| Comando | Descripcion                                          | Ejemplo de uso |
+| ------- | ---------------------------------------------------- | -------------- |
+|  man    | Proporciona informacion sobre el comando solicitado  | man mkdir      |
+| ------- | ---------------------------------------------------- | -------------- |
 | 
