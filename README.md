@@ -22,15 +22,15 @@
 | chown                | Cambiar el propietario de archivos del sistema de archivos                                     |
 | chmod                | Cambiar o transferir la propiedad de un archivo al nombre de usuario especificado              |
 | kill -9              | Cerrar un programa manualmente utilizando el comando kill                                      |
-| du                   | Verificar cuánto espacio ocupa un archivo o un directorio                                      |                                                 |                      |                                                      |                                         |
-|                      |                                                      |                                         |
-|                      |                                                      |                                         |
-|                      |                                                      |                                         |
-|                      |                                                      |                                         |
-|                      |                                                      |                                         |
-|                      |                                                      |                                         |
-|                      |                                                      |                                         |
-|                      |                                                      |                                         |
+| du                   | Verificar cuánto espacio ocupa un archivo o un directorio                                      |                                                | sudo su              | Usar el usuario root                                 |                                         |
+| grep                 | Buscar a traves de un texto                          |                                         |
+| df                   | Obtener un informe sobre el uso del espacio en disco del sistema                               |
+| ping                 | Verificar tu estado de conectividad a un servidor    | ping google.com                         |
+| wget                 | Descargar archivos de Internet                       | wget [nombre enlace]                    |
+| history              | Revisar los comandos que ingresaste                  |                                         |
+| useradd              | Crear un nuevo usuario                               |                                         |
+| passwd               | Agrega una contraseña a la cuenta                    |                                         |
+| Commando tab         | Autocompletar lo que estás escribiendo               |                                         |
 |                      |                                                      |                                         |
 |                      |                                                      |                                         |
 |                      |                                                      |                                         |
