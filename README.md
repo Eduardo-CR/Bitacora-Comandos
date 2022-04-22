@@ -31,7 +31,7 @@
 | useradd              | Crear un nuevo usuario                               |                                         |
 | passwd               | Agrega una contraseña a la cuenta                    |                                         |
 | Commando tab         | Autocompletar lo que estás escribiendo               |                                         |
-|                      |                                                      |                                         |
+| reboot               | Reinicia el equipo                                   |                                         |
 |                      |                                                      |                                         |
 |                      |                                                      |                                         |
 |                      |                                                      |                                         |
