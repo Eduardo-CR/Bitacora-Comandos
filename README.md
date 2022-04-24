@@ -18,21 +18,19 @@
 | touch                | Crear un nuevo archivo en blanco                     | $ touch archivo1                          |
 | stat                 | Mostrar información detallada sobre archivos         |                                           |
 | file                 | Mostrar el tipo y formato de un archivo              | $file name.jpeg                           |
-| chown                | Cambiar el propietario de archivos del sistema de archivos| chown USER FILE                      |
-| chmod                | Cambiar o transferir la propiedad de un archivo al nombre de usuario especificado                |
-| kill -9              | Cerrar un programa manualmente utilizando el comando kill                                        |
+| chown                | Cambiar el propietario de archivos                   | $ chown USER FILE                         |
+| chmod                | Cambiar o transferir la propiedad de un archivo      | $ chmod +rwx (agregar permisos)           |
+| kill -9              | Cerrar un programa o proceso manualmente             | $ kill all                                |
 | du                   | Verificar cuánto espacio ocupa un archivo o un directorio                                        |                                             
 | grep                 | Buscar a traves de un texto                          | $ grep -i "UNIX" geekfile.txt             |
 | df                   | Obtener un informe sobre el uso del espacio en disco del sistema                                 |
 | ping                 | Verificar tu estado de conectividad a un servidor    | $ping google.com                          |
 | wget                 | Descargar archivos de Internet                       | $wget [nombre enlace]                     |
 | useradd              | Crear un nuevo usuario                               | $sudo useradd test_user                   |
-| passwd               | Agrega una contraseña a la cuenta                    |                                           |
+| passwd               | Agrega una contraseña a la cuenta                    | $ sudo passwd                             |
 | Commando tab         | Autocompletar lo que estás escribiendo               | First letter + Tab                        |
 | reboot               | Reinicia el equipo                                   | $ reboot                                  |
 | cd                   | Mostrar directory donde se esta trabajando           | $ cd                                      |
 |                      |                                                      |                                           |
 |                      |                                                      |                                           |
-|                      |                                                      |                                           |
-|                      |                                                      |                                           |
-|                      |                                                      |                                           |
+---------------------------------------------------------------------------------------------------------------------------
