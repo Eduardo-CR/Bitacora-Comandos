@@ -5,7 +5,6 @@
 | history              | Mostrar los comandos ingresados anteriormente        | history 25                                |
 | clear                | Utilizar para limpiar la línea de comandos           | clear                                     |
 | mkdir                | Permite crear directorios desde 0                    | mkdir/Desktop/test                        |
-| htop                 | Utilizar para monitorear los recursos vitales del sistema                                        |
 | man                  | Proporciona informacion sobre el comando solicitado  | man mkdir                                 |
 | cp                   | Copiar un archivo de un directorio a otro            | cp directorio_origen directorio_destino   |
 | rm                   | Borra artchivo o directorio                          | rm <nombre directorio>                    |
