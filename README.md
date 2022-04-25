@@ -14,7 +14,7 @@
 | ls-al                | Mostrar arch y direct con info detallada             | ls -al                                    |
 | mv                   | Mover archivos o  cambiar el nombre de los archivos  | mv imagen.jpg /home/folder2               |
 | touch                | Crear un nuevo archivo en blanco                     | touch archivo1                            |
-| stat                 | Mostrar información detallada sobre archivos         |                                           |
+| stat                 | Mostrar información detallada sobre archivos         | stat archivo1.txt                                          |
 | file                 | Mostrar el tipo y formato de un archivo              | file name.jpeg                            |
 | chown                | Cambiar el propietario de archivos                   | chown USER FILE                           |
 | chmod                | Cambiar permisos de un archivo                       | chmod +rwx (agregar permisos)             |
